@@ -1,0 +1,19 @@
+name: Bookshelf-GUI
+author: TYPE-0
+description: None of your business.
+version: 1.0.1
+main: com.c010ur1355.bookshelfgui.main
+
+commands:
+  bsgui:
+    usage: 5g dim use? ng ho use lor on9 jai.
+    description: None of your business.
+
+
+permissions:
+  bookshelfgui.modify:
+    description: None of your business.
+    default: op
+  bookshelfgui.view:
+    description: None of your business.
+    default: op
